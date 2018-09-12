@@ -1,0 +1,26 @@
+C:\Users\AslamB\Desktop\C#\UI\VC_UI\VC_UI\bin\Debug\VC_UI.exe.config
+C:\Users\AslamB\Desktop\C#\UI\VC_UI\VC_UI\bin\Debug\VC_UI.exe
+C:\Users\AslamB\Desktop\C#\UI\VC_UI\VC_UI\bin\Debug\VC_UI.pdb
+C:\Users\AslamB\Desktop\C#\UI\VC_UI\VC_UI\bin\Debug\DBL.dll
+C:\Users\AslamB\Desktop\C#\UI\VC_UI\VC_UI\bin\Debug\DBL.pdb
+C:\Users\AslamB\Desktop\C#\UI\VC_UI\VC_UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\AslamB\Desktop\C#\UI\VC_UI\VC_UI\obj\Debug\VC_UI.ComRes.resources
+C:\Users\AslamB\Desktop\C#\UI\VC_UI\VC_UI\obj\Debug\VC_UI.login.resources
+C:\Users\AslamB\Desktop\C#\UI\VC_UI\VC_UI\obj\Debug\VC_UI.manage.resources
+C:\Users\AslamB\Desktop\C#\UI\VC_UI\VC_UI\obj\Debug\VC_UI.Properties.Resources.resources
+C:\Users\AslamB\Desktop\C#\UI\VC_UI\VC_UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\AslamB\Desktop\C#\UI\VC_UI\VC_UI\obj\Debug\VC_UI.exe
+C:\Users\AslamB\Desktop\C#\UI\VC_UI\VC_UI\obj\Debug\VC_UI.pdb
+C:\Users\AslamB\Desktop\C#\Visual Studio Project\UI\VC_UI\VC_UI\bin\Debug\VC_UI.exe.config
+C:\Users\AslamB\Desktop\C#\Visual Studio Project\UI\VC_UI\VC_UI\bin\Debug\VC_UI.exe
+C:\Users\AslamB\Desktop\C#\Visual Studio Project\UI\VC_UI\VC_UI\bin\Debug\VC_UI.pdb
+C:\Users\AslamB\Desktop\C#\Visual Studio Project\UI\VC_UI\VC_UI\bin\Debug\DBL.dll
+C:\Users\AslamB\Desktop\C#\Visual Studio Project\UI\VC_UI\VC_UI\bin\Debug\DBL.pdb
+C:\Users\AslamB\Desktop\C#\Visual Studio Project\UI\VC_UI\VC_UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\AslamB\Desktop\C#\Visual Studio Project\UI\VC_UI\VC_UI\obj\Debug\VC_UI.ComRes.resources
+C:\Users\AslamB\Desktop\C#\Visual Studio Project\UI\VC_UI\VC_UI\obj\Debug\VC_UI.login.resources
+C:\Users\AslamB\Desktop\C#\Visual Studio Project\UI\VC_UI\VC_UI\obj\Debug\VC_UI.manage.resources
+C:\Users\AslamB\Desktop\C#\Visual Studio Project\UI\VC_UI\VC_UI\obj\Debug\VC_UI.Properties.Resources.resources
+C:\Users\AslamB\Desktop\C#\Visual Studio Project\UI\VC_UI\VC_UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\AslamB\Desktop\C#\Visual Studio Project\UI\VC_UI\VC_UI\obj\Debug\VC_UI.exe
+C:\Users\AslamB\Desktop\C#\Visual Studio Project\UI\VC_UI\VC_UI\obj\Debug\VC_UI.pdb
